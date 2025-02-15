@@ -1,5 +1,3 @@
----
-
 ```md
 # 🚀 Template React Personalizado
 
