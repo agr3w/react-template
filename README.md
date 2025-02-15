@@ -40,7 +40,7 @@ Este é um **template inicial** para projetos React, criado para otimizar o dese
 ### 🔹 Clonando o Template
 
 ```sh
-git clone https://github.com/seu-usuario/seu-template-react.git nome-do-projeto
+git clone https://github.com/agr3w/react-template.git nome-do-projeto
 cd nome-do-projeto
 ```
 
