@@ -1,6 +1,3 @@
-```md
----
-
 # 🚀 Template React Personalizado
 
 Este é um **template inicial** para projetos React, criado para otimizar o desenvolvimento e evitar configurações repetitivas. Ele já vem com uma estrutura organizada e suporte para **importações absolutas**.
